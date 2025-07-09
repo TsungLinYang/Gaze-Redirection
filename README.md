@@ -26,14 +26,14 @@ pillow == 10.4.0
   - If anyone in the photo has their eyes closed, treat the photo as NG (not good) and move it to a separate folder.
 
 ## Loss Design
-![loss_design](file:///C:/Users/%E6%A5%8A%E5%AE%97%E9%9C%96/Downloads/gaze_redirection_methodology.jpg)
-![loss_design](readme_image/gaze_redirection_loss_design_D.jpg)
-![loss_design](readme_image/gaze_redirection_loss_design_G.jpg)
+![loss_design](https://github.com/TsungLinYang/Gaze-Redirection/blob/main/images/gaze_redirection_loss_design_adv.jpg)
+![loss_design]([readme_image/gaze_redirection_loss_design_D.jpg](https://github.com/TsungLinYang/Gaze-Redirection/blob/main/images/gaze_redirection_loss_design_D.jpg))
+![loss_design]([readme_image/gaze_redirection_loss_design_G.jpg](https://github.com/TsungLinYang/Gaze-Redirection/blob/main/images/gaze_redirection_loss_design_G.jpg))
 
 ## Results
 
-![tzuyu](readme_image/gaze_redirection_result_1.jpg)
-![tzuyu](readme_image/gaze_redirection_result_2.jpg)
+![tzuyu](https://github.com/TsungLinYang/Gaze-Redirection/blob/main/images/gaze_redirection_result_1.jpg)
+![tzuyu](https://github.com/TsungLinYang/Gaze-Redirection/blob/main/images/gaze_redirection_result_2.jpg)
 
 **Trained weights file**: [[click here](https://drive.google.com/drive/folders/1Md5oNycrS5r_NYJDeZUW563aTzxzMaH6?usp=drive_link)]
 
