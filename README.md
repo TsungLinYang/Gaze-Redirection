@@ -13,7 +13,7 @@ pillow == 10.4.0
 
 ## Methodology
 
-![Method Flowchart](readme_image/gaze_redirection_methodology.jpg)
+![Method Flowchart](file:///C:/Users/%E6%A5%8A%E5%AE%97%E9%9C%96/Downloads/gaze_redirection_methodology.jpg)
 
 **Pre-setup and Training Phase**
 - Set the **dlib** criteria for determining open and closed eyes
