@@ -27,8 +27,8 @@ pillow == 10.4.0
 
 ## Loss Design
 ![loss_design](https://github.com/TsungLinYang/Gaze-Redirection/blob/main/images/gaze_redirection_loss_design_adv.jpg)
-![loss_design]([readme_image/gaze_redirection_loss_design_D.jpg](https://github.com/TsungLinYang/Gaze-Redirection/blob/main/images/gaze_redirection_loss_design_D.jpg))
-![loss_design]([readme_image/gaze_redirection_loss_design_G.jpg](https://github.com/TsungLinYang/Gaze-Redirection/blob/main/images/gaze_redirection_loss_design_G.jpg))
+![loss_design](https://github.com/TsungLinYang/Gaze-Redirection/blob/main/images/gaze_redirection_loss_design_D.jpg)
+![loss_design](https://github.com/TsungLinYang/Gaze-Redirection/blob/main/images/gaze_redirection_loss_design_G.jpg)
 
 ## Results
 
