@@ -26,7 +26,7 @@ pillow == 10.4.0
   - If anyone in the photo has their eyes closed, treat the photo as NG (not good) and move it to a separate folder.
 
 ## Loss Design
-![loss_design](readme_image/gaze_redirection_loss_design_adv.jpg)
+![loss_design](file:///C:/Users/%E6%A5%8A%E5%AE%97%E9%9C%96/Downloads/gaze_redirection_methodology.jpg)
 ![loss_design](readme_image/gaze_redirection_loss_design_D.jpg)
 ![loss_design](readme_image/gaze_redirection_loss_design_G.jpg)
 
